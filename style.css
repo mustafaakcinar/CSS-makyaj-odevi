@@ -1,0 +1,25 @@
+#sayfa-basi {
+    border: thick double #32a1ce;
+}
+
+.afişler {
+    border: solid
+}
+ol {
+    list-style-position: inside
+  }
+  li {
+    color: rgb(46, 8, 46);
+    font-weight: bold;
+  }
+body {
+    font-family: 'Handjet', cursive;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-size: 24px;
+    background-color: rgb(201, 218, 206);
+}
+h1, h2, h3 {
+    color:red;
+    font-style: bold;
+}
